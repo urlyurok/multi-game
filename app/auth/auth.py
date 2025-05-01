@@ -4,7 +4,7 @@ from jose import JWTError, jwt
 from passlib.context import CryptContext
 
 # Секретный ключ для подписи токенов
-SECRET_KEY = "your-secret-key"
+SECRET_KEY = "5e9d5d5f6b0f4d7a8bb8c7b60b5a15b3"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
